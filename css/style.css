@@ -54,7 +54,7 @@ body {
     padding: 0 10px;
 }
 .main-screen {
-    background-image: url(/img/main_bg.png);
+    background-image: url(../img/main_bg.png);
     background-repeat: no-repeat;
     background-position: top left;
     height: 800px;
@@ -289,7 +289,7 @@ text-align: center;
 }
 
 .finish {
-  background-image: url(/img/second_bg.png);
+  background-image: url(../img/second_bg.png);
   background-repeat: no-repeat;
   background-position: top left;
   height: 447px;
